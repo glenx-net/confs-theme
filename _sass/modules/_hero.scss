@@ -5,9 +5,9 @@
 .hero {
 	height: 335px;
 	background: url('https://http://www.outbackencounter.com/images/images_processed/farawaybay_landscape_cliffsatsunset.jpg'),
-	            linear-gradient(rgba(52,85,125,67), rgba(123, 212, 123, 212));
+	            linear-gradient( rgba(52,85,125,67), rgba(123, 212, 123, 212));
 	background-blend-mode: multiply;
 	background-repeat: no-repeat;
-	background-size: contain;
+	background-size: cover;
 	margin-bottom: em(50px);
 }
