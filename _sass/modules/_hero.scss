@@ -4,11 +4,11 @@
 
 .hero {
 	height: 315px;
-	background: linear-gradient( #F5C679, #89ABCD),
+	background: linear-gradient( #FEDCBA, #123456),
 		url('https://s-media-cache-ak0.pinimg.com/originals/01/eb/6c/01eb6cdcc6747cf1e953052de95021a1.jpg');
 	            
 	background-blend-mode: screen;
 	background-repeat: no-repeat;
 	background-size: cover;
-	margin-bottom: em(50px);
+	margin-bottom: em(45px);
 }
